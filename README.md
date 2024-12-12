@@ -1,2 +1,2 @@
 # GitOps
-Porjet de test
+Projet de test - mini site
